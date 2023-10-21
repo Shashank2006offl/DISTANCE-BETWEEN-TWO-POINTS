@@ -15,9 +15,19 @@ print distance
 ### Step 5:
 program to find the distance two 2 points 
 ### PROGRAM:
-  
-program to find the distance two 2 points was successfully executed.
+#Program to find the distance between two points.
+#Developed by: Shashank R
+#RegisterNumber:23013949
+x_1=10
+x_2=4
+y_1=6
+y_2=2
+s1=(x_2-x_1)
+s2=(y_2-y_1)
+d=(s1**2+s2**2)**0.5
+print(round(d,2))
 
 ### OUTPUT:!
-![Alt text](image.png)
+![Alt text](image-1.png)
 ### RESULT:
+program to find the distance two 2 points was successfully executed.
